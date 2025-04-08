@@ -2,8 +2,7 @@
 
 This the place to report bugs and follow their resolution, suggest features, enhancements, changes etc.
 
-This can be anything related to [www.arcsecond.io](https://www.arcsecond.io)
-or even [api.arcsecond.io](https://api.arcsecond.io).
+See [open issues](https://github.com/arcsecond-io/issues/issues), or:
 
 - [Open a bug report](https://github.com/arcsecond-io/issues/issues/new?template=bug_report.md)
 - [Request a new feature](https://github.com/arcsecond-io/issues/issues/new?template=feature_request.md)
