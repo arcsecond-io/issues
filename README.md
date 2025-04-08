@@ -5,7 +5,8 @@ This the place to report bugs and follow their resolution, suggest features, enh
 This can be anything related to [www.arcsecond.io](https://www.arcsecond.io)
 or even [api.arcsecond.io](https://api.arcsecond.io).
 
-[Follow this link](https://github.com/arcsecond-io/issues/issues/new) to open a new issue, or navigate to [Issues](https://github.com/arcsecond-io/issues/issues) to see pending ones.
-Give us as many details as possible.
+- [Open a bug report](https://github.com/arcsecond-io/issues/issues/new?template=bug_report.md)
+- [Request a new feature](https://github.com/arcsecond-io/issues/issues/new?template=feature_request.md)
+- [Open a blank issue](https://github.com/arcsecond-io/issues/issues/new?template=BLANK_ISSUE)
 
 If you are looking for the arcsecond CLI, it is [here](https://github.com/arcsecond-io/cli).
