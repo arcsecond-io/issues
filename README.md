@@ -1,4 +1,4 @@
-# Welcome to issues, the issues-only repository for Arcsecond.io !
+# Welcome to "Issues", the issues-only repository for Arcsecond.io !
 
 This the place to report and follow bugs, suggest features etc.
 
