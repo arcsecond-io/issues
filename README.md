@@ -1,6 +1,6 @@
-# Welcome to "Issues", the issues-only repository for Arcsecond.io !
+# Welcome to Arcsecond's "Issues", for publicly reporting issues of any kind
 
-This the place to report and follow bugs, suggest features etc.
+This the place to report bugs and follow their resolution, suggest features, enhancements, changes etc.
 
 This can be anything related to [www.arcsecond.io](https://www.arcsecond.io)
 or even [api.arcsecond.io](https://api.arcsecond.io).
